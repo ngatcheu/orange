@@ -1,0 +1,28 @@
+tache de la journee du 26 juillet
+
+--Travailler sur le cluster rickaasley
+   -reservation de VIP
+   -Exposition des flux 
+   -Creation des services
+   
+   -Petites recherches sur kube-state-metric 
+     https://github.com/kubernetes/kube-state-metrics/tree/master/docs
+     https://github.com/kubernetes/kube-state-metrics/blob/master/docs/pod-metrics.md
+     
+      
+
+
+
+Travailler avec omar sur 
+Questions 
+1-comment faire une ouverture de flux vers mon cluster rickaasley vers l'exterieur?
+interne et externe?
+  netflux 
+ 
+2-Comment pousser et/ou recuperer une image  dans le repo artifactory
+   Faire une merge request sur le gitlab
+   docker login -u fngatcheu -p micoli1987ISS@  pfs-mci-docker.af.multis.p.fti.net
+   
+Travailler avec un membre de l equipe de Rick sur la creation d 'un statefulset avec une classe de stockage local
+Travailler avec florent
+   
